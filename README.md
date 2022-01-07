@@ -1,4 +1,4 @@
-## Hi! Happy 2022 👋
+## Hi! 👋
 
 My name is Ziyi Xu, a senior at the University of Southern California studying Data Science & Economics. Currently,I'm interested in healthcare💊, interactive media🎬 and contemporary Chinese internet culture🈚️. 
 
